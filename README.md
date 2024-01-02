@@ -11,6 +11,7 @@ Following are the things i want to accomplish
  * Provide Interface for cashiers to cash the tables
  * Provide Interface to control stocks.
  * Provide Interface for Customers to view menu, place orders digitally.
+ * Provide Online Website interface for a company.
 
 
 ## Future Projections
